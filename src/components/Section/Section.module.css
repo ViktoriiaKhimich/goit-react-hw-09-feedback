@@ -1,0 +1,8 @@
+.title {
+    padding: 0;
+    margin: 20px;
+    font-family:'Roboto',sans-serif;
+    font-weight:500;
+    color: dimgray;
+    text-shadow: 0 0.04em 0.04em rgba(0,0,0,0.35);
+}

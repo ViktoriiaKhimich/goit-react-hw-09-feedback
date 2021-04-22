@@ -1,0 +1,8 @@
+.container {
+    margin: 0 auto;
+    max-width: 550px;
+    text-align: center;
+    border: 2px solid darkgray;
+    border-radius: 5px;
+    box-shadow: 0 0.04em 0.04em rgba(0,0,0,0.35);
+}
